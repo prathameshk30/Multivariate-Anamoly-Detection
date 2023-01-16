@@ -6,6 +6,6 @@
 ## Project Description:-
 This project is based on a public dataset provided by "CAIRSENSE-Denver". The databases contain continuous sensor information as well as time stamped equivalent reference data. The aim of this project is to analyze the data to find implication of various natural aprameter such as tempreature, humidity, wind speed etc over a period of time. find some anamolies in the data using univariate and multivariate time series analysis method. A in depth time series analysis is done as a various unsupervised ML methods such as Isolation forest, Kmeans , SVM and comparing it with baseline statsistical maethods such as IQR and eucledian distance.
 
-## the goal:-
+## Goal:-
 To develope a novel algorithm from scratch to set trigger in a system for the anamolies detected. 
 
