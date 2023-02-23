@@ -14,7 +14,7 @@ This project is based on a public dataset provided by "CAIRSENSE-Denver". The da
 https://github.com/prathameshk30/Big-Data-Multivariate-Anamoly-Detection/blob/main/Anomaly_Detection_univariate.ipynb
 
 2) The link to complete project analysis:-
-https://github.com/prathameshk30/Multivariate-Anamoly-Detection/blob/main/Anomaly_Detection%20(7).ipynb
+https://github.com/prathameshk30/Multivariate-Anamoly-Detection/blob/main/Complete%20Anomaly%20Detection%20Study.ipynb
 
 ## Goal:-
 To develope a novel algorithm from scratch to set trigger in a system for the anamolies detected. 
